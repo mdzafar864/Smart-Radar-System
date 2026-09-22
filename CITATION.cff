@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Smart Radar System"
+abstract: >
+  An Arduino-based ultrasonic radar system that scans its surroundings with a
+  servo-mounted HC-SR04 sensor, streams live distance data over serial, and
+  renders it as a real-time sweeping radar display using Processing.
+authors:
+  - family-names: "Contributors"
+    name: "Smart Radar Contributors"
+version: 1.0.0
+date-released: 2026-09-22
+license: MIT
+repository-code: "https://github.com/<your-username>/Smart-Radar"
+keywords:
+  - arduino
+  - radar
+  - ultrasonic
+  - hc-sr04
+  - processing
+  - embedded-systems
