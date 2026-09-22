@@ -25,7 +25,7 @@ An Arduino-based ultrasonic radar system that scans its surroundings with a serv
 See [`video/demo-link.md`]( https://youtube.com/shorts/AxBbinlzzF8?si=7KXWETVOZmPvtYAb ) for the demo video.
 
 <p align="center">
-  <img src="docs/images/smart-auto-bulb.jpg" alt="Smart Auto Bulb - Arduino Uno, HC-SR04 sensor, relay and bulb" width="520">
+  <img src="docs/images/docs/images/Smart rader.png" alt="docs/images/Smart Rader.png- Arduino Uno, HC-SR04 sensor, relay and bulb" width="520">
 </p>
 
 ---
